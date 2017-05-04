@@ -1,2 +1,2 @@
 # img
-img
+My personal image repository.
